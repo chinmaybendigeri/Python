@@ -8,6 +8,7 @@ for n in mylist:
 
 mydict = {'key1': 100 , 'key2': 200, 'key3': 300}
 
+
 for x in mydict: # this will print all the keys
     if x == 'key2':
         print("i found key2")
