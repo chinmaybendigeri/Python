@@ -23,3 +23,11 @@ for k,v in mytuplelist:
     print(k)
     print(v)
 
+
+for num in mylist:
+    if num == 1:
+        print("Hi")
+    elif num == 2:
+        print("Hello")
+
+
